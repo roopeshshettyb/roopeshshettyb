@@ -27,7 +27,7 @@ Hi, I'm Roopesh!
 📝 I love building applications
 🔭 Working on everything I can
 🌟 Main languages: Python, JavaScript
-🤔 To learn more about me check out my portfolio <a href="roopesh.fyi" target="_blank">roopesh.fyi</a>
+🤔 To learn more about me check out my portfolio <a href="www.roopesh.fyi" target="_blank">roopesh.fyi</a>
 </pre>
 <hr>
 
