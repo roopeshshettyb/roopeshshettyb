@@ -1,16 +1,69 @@
-### Hi there 👋
+<h1 align="center">
+Hi, I'm Roopesh!
+	<a href="https://github.com/roopeshshettyb" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
+<p align="center">
+	<a href="https://github.com/roopeshshettyb">
+		<img src="https://komarev.com/ghpvc/?username=roopeshshettyb&label=Profile%20views&color=0e75b6&style=flat" alt="roopeshshettyb" />
+	</a>
+	<a href="https://github.com/roopeshshettyb">
+		<img src="https://img.shields.io/github/followers/roopeshshettyb?label=Followers" alt="roopeshshettyb" />
+	</a>
+</p>
+<br/>
+<p align="center">
+	<a href="https://github.com/roopeshshettyb">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Teacher;Project+Management;Sales;Marketing&center=true&width=380&height=45">
+	</a>
+</p>
 
-<!--
-**roopeshshettyb/roopeshshettyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<pre>
+💻 I am a Full Stack Developer with experience in Teaching, Sales & Marketing domains.
+📚 I have completed my Bachelors from PES University, Bengaluru
+📝 I love building applications
+🔭 Working on everything I can
+🌟 Main languages: Python, JavaScript
+🤔 To learn more about me check out my portfolio <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">roopesh.fyi</a>
+</pre>
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Connect with me
+<p align="center">
+	<a href="https://mail.google.com/mail/?view=cm&to=roopeshb13%40gmail.com&su=Hey,Roopesh"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/roopeshshettyb/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://github.com/roopeshshettyb"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+</br>
+
+<table style="border: none">
+  <tr>
+  <td width="50%" valign="top">
+
+## Let's Work on Your Project Together!
+
+If you have any questions about Full Stack Development, feel free to <a href="https://mail.google.com/mail/?view=cm&to=roopeshb13%40gmail.com&su=Hey,Roopesh">contact me through email</a> me.
+
+  </td>
+  <td width="50%" valign="top">
+
+## It's not perfect, isn't it?
+
+**<a href="https://github.com/roopeshshettyb"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
+
+“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
+– Elon Musk
+
+  </td>
+  </tr>
+</table>
+
+------
+
+[roopeshshettyb](https://github.com/roopeshshettyb)
+
+Last Edited on: 19/07/2022
