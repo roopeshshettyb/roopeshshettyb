@@ -15,7 +15,7 @@ Hi, I'm Roopesh!
 <br/>
 <p align="center">
 	<a href="https://github.com/roopeshshettyb">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Teacher;Project+Management;Sales;Marketing&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Engineer;Teacher;Project+Management;Sales;Marketing&center=true&width=380&height=45">
 	</a>
 </p>
 
