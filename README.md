@@ -65,5 +65,3 @@ If you have any questions about Full Stack Development, feel free to <a href="ht
 ------
 
 [roopeshshettyb](https://github.com/roopeshshettyb)
-
-Last Edited on: 19/07/2022
