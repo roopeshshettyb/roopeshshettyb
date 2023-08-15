@@ -46,7 +46,7 @@ Hi, I'm Roopesh!
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about Full Stack Development, feel free to <a href="https://mail.google.com/mail/?view=cm&to=roopeshb13%40gmail.com&su=Hey,Roopesh">contact me through email</a> me.
+If you have any questions about Full Stack Development, feel free to <a href="https://mail.google.com/mail/?view=cm&to=roopeshb13%40gmail.com&su=Hey,Roopesh">contact me through email</a>.
 
   </td>
   <td width="50%" valign="top">
