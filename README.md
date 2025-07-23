@@ -27,14 +27,13 @@ Hi, I'm Roopesh!
 📝 I love building applications
 🔭 Working on everything I can
 🌟 Main languages: Python, JavaScript
-🤔 To learn more about me check out my portfolio <a href="https://www.roopesh.fyi" target="_blank">roopesh.fyi</a>
+🤔 To learn more about me check out my portfolio <a href="https://roopesh.tech" target="_blank">roopesh.tech</a>
 </pre>
 <hr>
 
 ## 🤝 Connect with me
 <p align="center">
-	<a href="https://mail.google.com/mail/?view=cm&to=roopeshb13%40gmail.com&su=Hey,Roopesh"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/roopeshshettyb/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://mail.google.com/mail/?view=cm&to=roopesh%40flashpact.in&su=Hey,Roopesh"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/roopeshshettyb"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
@@ -46,7 +45,7 @@ Hi, I'm Roopesh!
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about Full Stack Development, feel free to <a href="https://mail.google.com/mail/?view=cm&to=roopeshb13%40gmail.com&su=Hey,Roopesh">contact me through email</a>.
+If you have any questions about Full Stack Development, feel free to <a href="https://mail.google.com/mail/?view=cm&to=roopesh%40flashpact.in&su=Hey,Roopesh">contact me through email</a>.
 
   </td>
   <td width="50%" valign="top">
